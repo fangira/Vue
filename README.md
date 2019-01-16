@@ -1,3 +1,5 @@
 # Vue
 
 - [webpack简单配置服务器](./webpack.md)
+- <a href="https://github.com/Wscats/vue-tutorial/issues/16">axios</a> > Vue发起ajax请求
+
