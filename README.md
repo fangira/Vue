@@ -1,6 +1,8 @@
 # Vue
 
-[老姚的Vue教程](https://github.com/fangira/vue-tutorial)
+### 杂谈
+- [老姚的Vue教程](https://github.com/fangira/vue-tutorial)
+- [书写模块化的几种方法](./note1.md)
 ### webpack
 - [webpack简单配置服务器](./webpack.md)
 - [webpack打包配置](./webpackConfig.md)
