@@ -1,5 +1,6 @@
 # Vue
 
+[老姚的Vue教程](https://github.com/fangira/vue-tutorial)
 ### webpack
 - [webpack简单配置服务器](./webpack.md)
 
