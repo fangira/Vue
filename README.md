@@ -49,4 +49,4 @@
 
 ### 插件
 - [VueRouter (前端路由)](./md/VueRouter.md)
-- [Vuex (前端仓库)]
+- [Vuex (前端仓库)](./md/vuex.md)
