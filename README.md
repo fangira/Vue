@@ -31,6 +31,7 @@
 - mounted
 - updated
 - activated(配合keep-alive标签使用)
+- [component](./md/component.md)
 - destroyed
 
 ### 实例属性
