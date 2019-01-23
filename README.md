@@ -1,4 +1,5 @@
 # Vue
+[官方文档](https://cn.vuejs.org/v2/api/)
 
 ### 杂谈
 - [老姚的Vue教程](https://github.com/fangira/vue-tutorial)
@@ -29,11 +30,11 @@
 - created
 - mounted
 - updated
-- activated
+- activated(配合keep-alive标签使用)
 - destroyed
 
 ### 实例属性
-- this.$emit
+- [this.$emit](https://cn.vuejs.org/v2/api/#vm-emit)
 
 ### 内置组件
 - transition (过度动画)
