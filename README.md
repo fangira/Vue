@@ -20,7 +20,7 @@
 
 ### 常用选项
 - data
-- props
+- [props](./md/props.md)
 - computed
 - methods
 - watch
