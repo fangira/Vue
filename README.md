@@ -9,6 +9,44 @@
 - [webpack打包配置](./md/webpackConfig.md)
 - [以 async/await 为例，说明 babel 插件怎么搭](./md/note2.md)
 
+### 常用指令
+- v-text、v-html 
+- v-show、v-if
+- v-for
+- v-bind (:)
+- v-on (@)
+- v-model
+
+### 常用选项
+- data
+- props
+- computed
+- methods
+- watch
+- components
+
+### 常用生命周期
+- created
+- mounted
+- updated
+- activated
+- destroyed
+
+### 实例属性
+- this.$emit
+
+### 内置组件
+- transition (过度动画)
+- keep-alive(切换路由不销毁)
+- slot (插槽)
+
 ### 第三方模块
 - <a href="https://github.com/Wscats/vue-tutorial/issues/16">axios</a> > Vue发起ajax请求
 
+### 工具
+- Vue CLI (脚手架)
+- Vue Devtools
+
+### 插件
+- VueRouter (前端路由)
+- Vuex (前端仓库)
