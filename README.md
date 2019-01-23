@@ -42,6 +42,7 @@
 
 ### 第三方模块
 - <a href="https://github.com/Wscats/vue-tutorial/issues/16">axios</a> > Vue发起ajax请求
+- [懒加载vue-lazyload](./md/vue-lazyload.md)
 
 ### 工具
 - Vue CLI (脚手架)
