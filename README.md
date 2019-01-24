@@ -54,3 +54,6 @@
 ### 插件
 - [VueRouter (前端路由)](./md/VueRouter.md)
 - [Vuex (前端仓库)](./md/vuex.md)
+
+### 打包build
+- [简单打包设置文件](./md/build.md)
