@@ -57,6 +57,7 @@
 
 ### 推荐使用UI
 - [移动端-mintUI](https://mint-ui.github.io/docs/#/)
+- [移动端-Vant](https://youzan.github.io/vant/#/zh-CN/intro)
 - [PC端-elementUI](http://element-cn.eleme.io/#/zh-CN/guide/design)
 
 ### 打包build
