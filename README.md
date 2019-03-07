@@ -31,11 +31,11 @@
 - mounted
 - updated
 - activated(配合keep-alive标签使用)
-- [component](./md/component.md)
 - destroyed
 
 ### 实例属性
 - [this.$emit](https://cn.vuejs.org/v2/api/#vm-emit)
+- [$emit例子](./md/component.md)
 
 ### 内置组件
 - transition (过度动画)
